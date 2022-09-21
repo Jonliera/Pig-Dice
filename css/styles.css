@@ -1,3 +1,11 @@
-/* .hidden {
-  display: none;
+/* #p1-buttons{
+display : none;
+}
+
+#p2-buttons{
+  display : none;
 } */
+
+.hidden {
+  display: none;
+} 

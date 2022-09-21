@@ -12,7 +12,12 @@ Test: It will change the turn score and the total score
 Code: 
 Expected Output:
 
-Describe playDice()
+Describe: playDice()
 Test: It will give a random number from 1-6.
 Code: playDice(1, 6)
 Expected Output: #s from 1-6
+
+Describe : winner()
+Test: It will give the name of the winner
+Code: winner("player")
+Expexted Output : Player1
